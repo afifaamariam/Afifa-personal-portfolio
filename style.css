@@ -1,0 +1,25 @@
+.navber{
+display: flex;
+justify-content: space-between;
+background-color: #FFFFFF; 
+padding: 10px 200px 10px 200px;
+}
+.div1{
+    display: flex;
+    gap: 10px;
+ 
+    
+}
+.div2{
+display: flex;
+justify-content: space-between;
+gap: 10px;
+align-items: center;
+}
+.btn{
+    color: #FFFFFF;
+    background-color: blueviolet;
+    height: 30px;
+    padding: 10px 20px;
+    border-style: none;
+}
