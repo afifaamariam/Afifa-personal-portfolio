@@ -23,3 +23,44 @@ align-items: center;
     padding: 10px 20px;
     border-style: none;
 }
+.img{
+    height: 40px;
+    width: 40px;
+}
+.section{
+    display: flex;
+    padding: 10px 200px 10px 200px;
+   
+}
+.img1{
+    height: 500px;
+    width: 500px;
+    
+}
+.div3{
+    margin-top: 10%;
+    
+}
+.btn2{
+     color: #FFFFFF ;
+    background-color:#A53DFF ;
+   
+   padding: 10px;
+   border-style: none;
+   align-items: center;
+   border-radius: 4px;
+
+}
+.div4{
+    display: flex;
+    gap: 12px;
+    text-align: center;
+    margin-top: 15%;
+    
+}
+.div5{
+    background-color: #e4d2f3;
+    height: 100px;
+    width: 200px;
+    border-radius: 4px;
+}
